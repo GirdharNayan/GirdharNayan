@@ -1,12 +1,8 @@
-## Hi there 👋
+## Hi there👋, I am Nayan
 
 
-<h3 align="center">I code for fun</h3>
+I code to automate manual IT processes which most IT guys do not want to do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nayan-girdhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/harsh6874/" height="20" width="30" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -21,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nayan-girdhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/harsh6874/" height="20" width="30" /></a>
+</p>
