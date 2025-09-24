@@ -1,7 +1,7 @@
 ## Hi there👋, I am Nayan
 
 
-I am a passionate IT guy who codes for fun to automate manual IT processes which most IT guys hate doing<br> with a focus on API integrations &#128521
+I am a passionate IT guy who codes for fun to automate manual IT processes which most IT guys hate doing<br> with a focus on API integrations 😉
 
 
 <h3 align="left">Connect with me:</h3>
