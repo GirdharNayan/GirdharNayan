@@ -10,5 +10,4 @@ I am a passionate IT guy who codes for fun to automate manual IT processes which
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png""/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png""/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png""/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png""/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png""/></a>
