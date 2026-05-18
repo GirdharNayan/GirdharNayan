@@ -41,13 +41,6 @@ My work includes:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GirdharNayan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GirdharNayan&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
